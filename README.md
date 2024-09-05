@@ -5,7 +5,6 @@ ID:CT08DS6806
 DOMAIN: UI/UX DESIGN
 DURATION: AUGUST 10 TO SEPTEMBER 10,2024
 MENTOR NAME:MUZAMMIL AHMED
-
 OVERVIEW OF THE PROJECT PROJECT : PORTFOLIO
  A portfolio is a collection of documents or work samples that showcases your skills, experiences, and achievements. It's commonly used in various fields such as finance, design, writing, and education. 
  Here’s a general overview of what a portfolio might include:
